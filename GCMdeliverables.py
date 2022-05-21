@@ -4,7 +4,7 @@ from sklearn.linear_model import LassoCV, MultiTaskLassoCV
 
 """
 This is an implementation for Generalized Covariance Measure in python.
-Implemented by Xueda Shen.
+Implemented by Xueda Shen. shenxueda@berkeley.edu
 Rajen D. Shah, Jonas Peters: 
 "The Hardness of Conditional Independence Testing and the Generalised Covariance Measure"
 Annals of Statistics 48(3), 1514--1538, 2020.
