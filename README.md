@@ -1,1 +1,2 @@
 This document features a python implementation of the Generalized Covariance Measure proposed in https://arxiv.org/abs/1804.07203.
+`GCMdeliverables.py` contains the source code of implementation, and the jupyter notebook provides some demonstration on using GCM. Whilst the originial GCM uses Kernel Ridge Regression, I have chosen LASSO as the regression estimator. But the choice of regressor should not matter that much and could be changed by the user.
